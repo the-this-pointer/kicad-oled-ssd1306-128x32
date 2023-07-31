@@ -27,8 +27,13 @@
   (pad "2" thru_hole circle (at 2.54 5.08) (size 1.6 1.6) (drill 1) (layers "*.Cu" "*.Mask") (tstamp 3d910097-4cf0-48a7-a87e-61df35edee24))
   (pad "3" thru_hole circle (at 2.54 7.62) (size 1.6 1.6) (drill 1) (layers "*.Cu" "*.Mask") (tstamp 0bdffd4e-dc12-4a62-808b-d741e74e699c))
   (pad "4" thru_hole circle (at 2.54 10.16) (size 1.6 1.6) (drill 1) (layers "*.Cu" "*.Mask") (tstamp 37db0390-9a01-46a5-afbc-ad1cbaae159f))
-  (model "../OLED-SSD1306-128x32-0.91.3dshapes/OLED_SSD1306_128x32_0.91.stp"
+  (model "${THISPTR_LBR_DIR}/kicad-oled-ssd1306-128x32/OLED-SSD1306-128x32-0.91.3dshapes/OLED_SSD1306_128x32_0.91.stp" hide
     (offset (xyz 20 -6.5 3))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
+  (model "${THISPTR_LBR_DIR}/kicad-oled-ssd1306-128x32/OLED-SSD1306-128x32-0.91.3dshapes/OLED_SSD1306_128x32_0.91_PIN_HEADER.stp"
+    (offset (xyz 20 -6.5 11))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )

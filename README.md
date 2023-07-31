@@ -1,4 +1,7 @@
-# KiCad SSD1306 OLED Module
-The library used in <a href="https://github.com/the-this-pointer/timer-board-stm32f103-hw-2" target="_blank">"My Universal Timer Board - Second Edition"</a>.
+### KiCad SSD1306 OLED Module
 
-The 3D model step file is taken from <a href="https://grabcad.com/library/oled-0-91-128x32-1" target="_blank">here</a>
+##### How To Use
+To use this library, you should read the readme file [here](https://github.com/the-this-pointer/kicad-my-libraries)
+
+##### 3d Model
+The 3D model step file is taken from [here](https://grabcad.com/library/oled-0-91-128x32-1)
